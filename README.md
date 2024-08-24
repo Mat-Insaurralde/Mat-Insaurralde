@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mat-Insaurralde&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mat-insaurralde&theme=holi-theme&hide_border=&locale=es" alt="GitHub Streak" /></a>
 </p>
 
 ## 🌐 Conecta conmigo

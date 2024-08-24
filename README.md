@@ -10,24 +10,25 @@
 
 ## 📊 Mis Estadísticas de GitHub
 
+
 <p align="center">
   <!-- Estadísticas Generales de GitHub -->
   <a href="https://github.com/Mat-Insaurralde">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mat-Insaurralde&show_icons=true&theme=black-ice&count_private=true&include_all_commits=true&bg_color=060A0C&hide_border=true" alt="Estadísticas de GitHub"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mat-Insaurralde&show_icons=true&theme=dark&count_private=true&include_all_commits=true&bg_color=1E1E1E&hide_border=true" alt="Estadísticas de GitHub"/>
     <!-- Lenguajes más Utilizados -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat-Insaurralde&layout=compact&langs_count=8&theme=black-ice&bg_color=060A0C&hide_border=true" alt="Lenguajes más utilizados"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat-Insaurralde&layout=compact&langs_count=8&theme=dark&bg_color=1E1E1E&hide_border=true" alt="Lenguajes más utilizados"/>
   </a>
 </p>
 
 <p align="center">
   <!-- Racha de Contribuciones -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mat-Insaurralde&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Racha de contribuciones"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mat-Insaurralde&theme=dark&hide_border=true&stroke=FFFFFF&background=1E1E1E" alt="Racha de contribuciones"/>
 </p>
 
 ## 🌐 Conecta conmigo
 
 <p align="center">
   <a href="mailto:tucorreo@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto-Gmail%20tucorreo@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Contacto-Gmail%20tucorreo@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>

@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/Mat-Insaurralde">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mat-Insaurralde&show_icons=true&theme=black-ice&hide_border=true&count_private=true&include_all_commits=true&bg_color=060A0C"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Mat-insaurralde=anuraghazra&theme=dark&show_icons=true)
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat-Insaurralde&layout=compact&langs_count=8&theme=black-ice&hide_border=true&bg_color=060A0C"/>
   </a>
 </p>

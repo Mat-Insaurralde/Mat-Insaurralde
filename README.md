@@ -25,10 +25,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mat-Insaurralde&theme=dark&hide_border=true&stroke=FFFFFF&background=1E1E1E" alt="Racha de contribuciones"/>
 </p>
 
-## 🌐 Conecta conmigo
 
-<p align="center">
-  <a href="mailto:tucorreo@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto-Gmail%20tucorreo@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</p>

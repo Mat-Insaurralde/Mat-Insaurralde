@@ -12,8 +12,8 @@
 
 <p align="center">
   <a href="https://github.com/Mat-Insaurralde">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mat-Insaurralde&show_icons=true&theme=black-ice&count_private=true&include_all_commits=true&bg_color=060A0C&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat-Insaurralde&layout=compact&langs_count=8&theme=black-ice&bg_color=060A0C&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mat-Insaurralde&show_icons=true&theme=black-ice&count_private=true&include_all_commits=true&bg_color=060A0CD0&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat-Insaurralde&layout=compact&langs_count=8&theme=black-ice&bg_color=060A0CD0&hide_border=true" />
   </a>
 </p>
 
@@ -28,7 +28,3 @@
     <img src="https://img.shields.io/badge/Gmail-tucorreo@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=Mat-insaurralde&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

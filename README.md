@@ -15,7 +15,7 @@
 ### ¡Contáctame!
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:javiernatias115@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-matias-insaurralde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-matias-insaurralde/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mat-insaurralde&icon=0&color=0)](https://visitcount.itsvg.in)

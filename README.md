@@ -1,28 +1,18 @@
-# 💫 About Me:
-👋 ¡Hola! Soy Matias,  un apasionado programador de 25 años de Buenos Aires, Argentina. Llevo 2 años inmerso en el mundo de la programación y estoy emocionado por mi crecimiento constante en este campo.<br><br>💻 Mi enfoque principal hasta ahora ha sido el desarrollo web, trabajando tanto en front-end como en back-end. Me encanta resolver problemas y crear soluciones innovadoras que impacten positivamente en la vida de las personas.<br><br>🌟 Siempre estoy buscando nuevas oportunidades de aprendizaje y colaboración. Cuando no estoy codificando, disfruto explorar mi hermosa ciudad y mantenerme al tanto de las últimas tendencias tecnológicas.<br><br>¡No dudes en ponerte en contacto conmigo! Estoy emocionado por lo que el futuro me depara en mi viaje de desarrollo como programador. 😊<br><br>
+# 💫 Sobre Mi:
+¡Hola! Soy Matias, un programador de 25 años de Buenos Aires, Argentina, especializado en desarrollo web tanto en front-end como en back-end. Me apasiona resolver problemas y crear soluciones innovadoras. Actualmente, estoy explorando nuevas tecnologías y buscando oportunidades para crecer y colaborar en proyectos emocionantes.<br>
 
 
+## 🌐 Redes sociales:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mat.insaurralde) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Javier Matias Insaurralde  ) 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 💻 Tecnologias:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+# 📊 Estadisticas de Github:
+![](https://github-readme-stats.vercel.app/api?username=mat-insaurralde&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mat-insaurralde&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mat-insaurralde&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=mat-insaurralde&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## 📊 Mis Estadísticas de GitHub
-
-
-<p align="center">
-  <!-- Estadísticas Generales de GitHub -->
-  <a href="https://github.com/Mat-Insaurralde">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mat-Insaurralde&show_icons=true&theme=dark&count_private=true&include_all_commits=true&bg_color=1E1E1E&hide_border=true" alt="Estadísticas de GitHub"/>
-    <!-- Lenguajes más Utilizados -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat-Insaurralde&layout=compact&langs_count=8&theme=dark&bg_color=1E1E1E&hide_border=true" alt="Lenguajes más utilizados"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Racha de Contribuciones -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mat-Insaurralde&theme=dark&hide_border=true&stroke=FFFFFF&background=1E1E1E" alt="Racha de contribuciones"/>
-</p>
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -9,8 +9,9 @@
 
 # 📊 Estadisticas de Github:
 ![](https://github-readme-stats.vercel.app/api?username=mat-insaurralde&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mat-insaurralde&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mat-insaurralde&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mat-insaurralde&theme=one_dark_pro&hide_border=false)<br/>
+
 
 <a href="mailto:javiernatias115@gmail.com" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #4285F4; text-decoration: none; border-radius: 5px;">Contactame</a>
 

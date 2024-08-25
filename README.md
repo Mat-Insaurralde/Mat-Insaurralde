@@ -12,8 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mat-insaurralde&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mat-insaurralde&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:javiernatias115@gmail.com)
+### ¡Contáctame!
 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:javiernatias115@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-matias-insaurralde)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mat-insaurralde&icon=0&color=0)](https://visitcount.itsvg.in)

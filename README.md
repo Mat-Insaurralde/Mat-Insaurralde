@@ -1,4 +1,4 @@
-![Bienvenido a mi perfil](https://github.com/Mat-Insaurralde/Mat-Insaurralde/blob/main/banner%20%20en%20negro.png)
+![Bienvenido a mi perfil](https://github.com/Mat-Insaurralde/Mat-Insaurralde/blob/main/banner.png)
 
 
 
